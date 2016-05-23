@@ -1,130 +1,60 @@
 {
-    "cars": [
+    "flowers": [
         {
-                "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
-                },
-                 {
-                "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
-                },
-{
-                 "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
-                },
-                 {
-                "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
+                "name": "Anturium Scherzera",
+                "category": "Doniczkowe",
+                "watering": "średnio",
+                "height": "25 cm - 30 cm",
+                "photo": "http://cdn32.ogrod.smcloud.net/s/user_photos/thumbnails/50900_6ec496ad17202b40_380x285_crop_zdjecie-zajawki-rosliny.jpg"
                 },
                 {
-                 "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
-                },
-                 {
-                "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
+                "name": "Anturium Scherzera",
+                "category": "Doniczkowe",
+                "watering": "średnio",
+                "height": "25 cm - 30 cm",
+                "photo": "http://cdn32.ogrod.smcloud.net/s/user_photos/thumbnails/50900_6ec496ad17202b40_380x285_crop_zdjecie-zajawki-rosliny.jpg"
                 },
                 {
-                 "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
-                },
-                 {
-                "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
+                "name": "Anturium Scherzera",
+                "category": "Doniczkowe",
+                "watering": "średnio",
+                "height": "25 cm - 30 cm",
+                "photo": "http://cdn32.ogrod.smcloud.net/s/user_photos/thumbnails/50900_6ec496ad17202b40_380x285_crop_zdjecie-zajawki-rosliny.jpg"
                 },
                 {
-                 "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
-                },
-                 {
-                "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
+                "name": "Anturium Scherzera",
+                "category": "Doniczkowe",
+                "watering": "średnio",
+                "height": "25 cm - 30 cm",
+                "photo": "http://cdn32.ogrod.smcloud.net/s/user_photos/thumbnails/50900_6ec496ad17202b40_380x285_crop_zdjecie-zajawki-rosliny.jpg"
                 },
                 {
-                 "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
-                },
-                 {
-                "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
+                "name": "Anturium Scherzera",
+                "category": "Doniczkowe",
+                "watering": "średnio",
+                "height": "25 cm - 30 cm",
+                "photo": "http://cdn32.ogrod.smcloud.net/s/user_photos/thumbnails/50900_6ec496ad17202b40_380x285_crop_zdjecie-zajawki-rosliny.jpg"
                 },
                 {
-                 "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
-                },
-                 {
-                "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
+                "name": "Anturium Scherzera",
+                "category": "Doniczkowe",
+                "watering": "średnio",
+                "height": "25 cm - 30 cm",
+                "photo": "http://cdn32.ogrod.smcloud.net/s/user_photos/thumbnails/50900_6ec496ad17202b40_380x285_crop_zdjecie-zajawki-rosliny.jpg"
                 },
                 {
-                 "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
+                "name": "Anturium Scherzera",
+                "category": "Doniczkowe",
+                "watering": "średnio",
+                "height": "25 cm - 30 cm",
+                "photo": "http://cdn32.ogrod.smcloud.net/s/user_photos/thumbnails/50900_6ec496ad17202b40_380x285_crop_zdjecie-zajawki-rosliny.jpg"
                 },
-                 {
-                "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
+                {
+                "name": "Anturium Scherzera",
+                "category": "Doniczkowe",
+                "watering": "średnio",
+                "height": "25 cm - 30 cm",
+                "photo": "http://cdn32.ogrod.smcloud.net/s/user_photos/thumbnails/50900_6ec496ad17202b40_380x285_crop_zdjecie-zajawki-rosliny.jpg"
                 },
-{
-                 "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
-                },
-                 {
-                "name": "100",
-                "year": "Adam",
-                "capacity": "adam@example.com",
-                "type": "House #33, ABC Lane, ABC CITY 06987",
-                "photo": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
-                }
     ]
 }
