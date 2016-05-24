@@ -6,21 +6,23 @@
                 "watering": "mało",
                 "height": "20 cm - 60 cm",
                 "photo": "http://cdn16.ogrod.smcloud.net/s/user_photos/thumbnails/49595_190141d904816e13_160x142_crop_rozmiar-niestandardowy.jpg",
-                "descript": "wadawdwadawdawdaddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"
+                "descript": "Aksamitka rozpierzchła jest rośliną jednoroczną z rodziny astrowatych Asteraceae. Pochodzi z Ameryki. Osiąga od 20 do 60 cm wysokości. Łodyga jest rozgałęziona od samego dołu. Liście charakteryzują się intensywnym zapachem (można także kupić odmiany bezwonne). Aksamitka rozpierzchła kwitnie od VII do późnej jesieni. Jej kwiaty mają średnicę 4–6 cm, są języczkowate i dwubarwne: złotożółte z purpurową plamką u nasady lub ciemnobrunatne z żółtym brzegiem. Koszyczki kwiatowe osadzone pojedynczo na szypułkach."
                 },
                 {
                 "name": "Aksamitka wąskolistna",
                 "color": "zielona",
                 "watering": "mało",
                 "height": "15 cm - 30 cm",
-                "photo": "http://cdn20.ogrod.smcloud.net/s/user_photos/thumbnails/77873_aksamitka-waskolistna_160x142_crop_rozmiar-niestandardowy.jpg"
+                "photo": "http://cdn20.ogrod.smcloud.net/s/user_photos/thumbnails/77873_aksamitka-waskolistna_160x142_crop_rozmiar-niestandardowy.jpg",
+                "descript": "Aksamitka wąskolistna (ang.  french marigold) jest rośliną jednoroczną z rodziny astrowatych Asteraceae. Pochodzi z Meksyku i połnocnej części Ameryki Południowej. Roślina charakteryzuje się delikatnym, choć zwartym, kępiastym pokrojem. Osiąga od 15 do 30 cm wysokości. Łodyga jest silnie rozgałęziona od samej nasady. Liście bardzo drobne, silnie powcinane, waskie, o intensywnym, charakterystycznym zapachu. Aksamitka wąskolistna kwitnie od VII do późnej jesieni. Jej drobne kwiaty osiągają średnicę około 2 cm, są języczkowe, przybierają barwy od  jasnożółtej do ciemnopomarańczowej, bywają dwubarwne. Koszyczki kwiatowe są osadzone pojedynczo na szypułkach."
                 },
                  {
                 "name": "Asteriscus nadmorski",
                 "color": "żółta",
                 "watering": "średnio",
                 "height": "30 cm - 40 cm",
-                "photo": "http://cdn29.ogrod.smcloud.net/s/user_photos/t/185335_asteriscus-nadmorski_766588.jpg"
+                "photo": "http://cdn29.ogrod.smcloud.net/s/user_photos/t/185335_asteriscus-nadmorski_766588.jpg",
+                "descript": "Asteriscus nadmorski to roślina z rodziny astrowatych Asteraceae. W naturalnym środowisku rośnie jako zimozielona bylina w nadmorskich częściach krajów od Maroka przez Wyspy Kanaryjskie, południową Portugalię po południową Grecję. U nas uprawiana jest jako roślina jednoroczna (nie przeżyje zimą na zewnątrz, choć można ją przechować do następnego roku w chłodnym pomieszczeniu – o temperaturze około 10 st. C – z dobrym dostępem światła)."
                 },
                  {
                 "name": "Bakopa",
